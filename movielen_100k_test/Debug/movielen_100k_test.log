@@ -1,0 +1,90 @@
+﻿生成启动时间为 2015/9/12 21:54:18。
+     1>项目“C:\Users\WJ\Desktop\NSO\movielen_100k_test\movielen_100k_test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2013\新建文件夹\VC\bin\CL.exe /c /IC:\Users\WJ\Desktop\Attribute\movielen_100k_test\Eigen /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp stasticInfo.cpp
+         stasticInfo.cpp
+         main.cpp
+     1>c:\users\wj\desktop\nso\movielen_100k_test\similarity.h(24): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\similarity.h(107): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\similarity.h(114): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\similarity.h(125): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\similarity.h(178): warning C4018: “>=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\similarity.h(198): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\similarity.h(208): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\similarity.h(296): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\similarity.h(326): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\similarity.h(351): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(88): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(165): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(253): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(277): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(362): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(401): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(486): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(527): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(613): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(653): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(738): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(778): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(864): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(904): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(981): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1020): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1045): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1058): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1082): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1093): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1102): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1116): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1136): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1163): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1243): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1254): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1264): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1281): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1301): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1340): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1405): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1443): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1503): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1512): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1522): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1564): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1652): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1680): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1690): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1733): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1748): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1847): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1856): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1866): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1894): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(1980): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(2008): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(2018): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(2047): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\approach.cpp(2062): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\main.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\main.cpp(108): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\main.cpp(124): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\main.cpp(127): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\main.cpp(137): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\main.cpp(152): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\main.cpp(173): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\main.cpp(188): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\main.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\wj\desktop\nso\movielen_100k_test\main.cpp(221): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       Link:
+         E:\VS2013\新建文件夹\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\WJ\Desktop\NSO\Debug\movielen_100k_test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\WJ\Desktop\NSO\Debug\movielen_100k_test.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\WJ\Desktop\NSO\Debug\movielen_100k_test.lib" /MACHINE:X86 Debug\main.obj
+         Debug\stasticInfo.obj
+         movielen_100k_test.vcxproj -> C:\Users\WJ\Desktop\NSO\Debug\movielen_100k_test.exe
+     1>已完成生成项目“C:\Users\WJ\Desktop\NSO\movielen_100k_test\movielen_100k_test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.60
